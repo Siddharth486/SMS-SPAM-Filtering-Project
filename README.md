@@ -4,17 +4,12 @@
 
 This repository consists of files required for end to end implementation and deployment of Machine Learning Spam Detection web application created with flask and deployed on the Heroku platform.
 
-## Table of Contents
+# Table of Contents
   * [App Link](#app-link)
   * [About the App](#about-the-app)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Technologies Used](#technologies-used)
   * [Bug / Feature Request](#bug---feature-request)
-
-
-## App Link
-## If you want to view the deployed model, click on the following link:<br />
-## [https://allysonspamdetector.herokuapp.com/](https://allysonspamdetector.herokuapp.com/)
 
 A glimpse of the web app:
 
