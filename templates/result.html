@@ -24,10 +24,10 @@
 		<div class="results">
 			{% if prediction==1 %}
 				<h1>Prediction: <span class='danger'>Gotcha! This message is a SPAM</span></h1>
-				<img class="gif" src="{{ url_for('static', filename='spam.webp') }}" alt="SPAM Image">
+				<img class="img" src="{{ url_for('static', filename='spam.webp.jpg') }}" alt="SPAM Image">
 			{% elif prediction==0 %}
 				<h1>Prediction: <span class='safe'>Great! This message is NOT A SPAM</span></h1>
-				<img class="gif" src="{{ url_for('static', filename='not-spam.webp') }}" alt="Not a spam image">
+				<img class="img" src="{{ url_for('static', filename='not-spam.webp.jpg') }}" alt="Not a spam image">
 			{% endif %}
 		</div>
 
