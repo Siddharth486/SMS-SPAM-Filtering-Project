@@ -40,7 +40,7 @@ Login or signup in order to create virtual app. You can either connect your gith
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
-The next step would be to follow the instruction given in the [Heroku Documentation]() to deploy a web app.
+The next step would be to follow the instruction given in the [Heroku Documentation](https://devcenter.heroku.com/articles/git#deploying-code) to deploy a web app.
 
 ## Technologies Used
 
