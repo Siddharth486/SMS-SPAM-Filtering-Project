@@ -13,7 +13,8 @@ This repository consists of files required for end to end implementation and dep
 
 A glimpse of the web app:
 To check our Project click on the below link which is made by the help of Herouku for web application deployment :
-https://spamsmsfiltering.herokuapp.com/
+HERE
+
 
 
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by the Heroku platform have been completely used.** You can access the webpage on 1st of the next month.
